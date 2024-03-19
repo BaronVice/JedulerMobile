@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jeduler</string>
+    <string name="main_button_name">Earn a billion!</string>
+    <string name="rekt">Haha!</string>
+    <string name="jeduler">Jeduler</string>
+    <string name="email_hint">email</string>
+    <string name="pass_hint">password</string>
+    <string name="login">Drop app!</string>
+</resources>
